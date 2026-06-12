@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Education</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+            padding: 40px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .game-button {
+            display: block;
+            width: 250px;
+            margin: 15px auto;
+            padding: 15px;
+            background: #4285f4;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+
+        .game-button:hover {
+            background: #3367d6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎮 My Game Website</h1>
+
+    <p>Choose a game:</p>
+
+    <a class="game-button" href="https://azgames.io/cookie-clicker.embed">Cookie Clicker Game</a>
+    <a class="game-button" href="https://cm.g.doubleclick.net/partnerpixels?gdpr_consent=CQlsPgAQlsPgAEsACBENCjFoAP_gAEPgAAAgMGoB_C7EbSFDiDJ3IKMEMAhHgBBAYsAwAAYAAgIADBIQIBQCgkEYBAyAFCACCAAAKASBAAAgCAAAAUAAIAAFAABEAAwAIBAIIAAAgAAAAEBQAAAACIAAEQCAAAAEIEAAkAgAAAIAWEAAAAAAAACBQAAAAAAQAAAAAAAABAEAAQAAQAAAAAAAiAAAAAAIABAIAAAAAAAAAAAABAAAAAAAAAwAAAAAAAAgABAAAAAAAQgAAAAAAAAAAAAAAAACAEAAAAAAIMGoB_C7EbSFDiDBXIKMEMAhXgBAAYsAwAAYAAgIADBIQIAQCkkESBAiAECAACAAAIAQBAAAoAAgAAEAAAAAVAABEAAwAIBAIAEAAgAAAQEBQAAAACIAAEQCAAAAEIEAAgAgAAAIAWEAAAAAAAACBQAAAAAAQAAAAAAAAAAEAACAAwAAAAAAAiAAAAAAIABAIEAAAAAAAAAAABAAAAAAAAAQAAAAAAAAgAAAAAQAAAAgAAEAAAAAAAAAAAAACAEAAAAAAIAA.IMGoB_C7EbSFDiDJ3IKMEMAhXgBBAYsAwAAYAAgIADBIQIBQCkkEaBAyAFCACCAAAKASBAAAoCAgAAUAAIAAVAABEAAwAIBAIIEAAgAAAQEBQAAAACIAAEQCAAAAEIEAAkAgAAAIAWEAAAAAAAACBQAAAAAAQAAAAAAAABAEAASAAwAAAAAAAiAAAAAAIABAIEAAAAAAAAAAABAAAAAAAAAwAAAAAAAAgABAAAQAAAQgAAEAAAAAAAAAAAAACAEAAAAAAIA.f_AAAAwAAAA&gdpr=1&addtl_consent=2~61.89.122.161.184.196.230.314.340.385.442.445.494.550.576.827.1025.1029.1033.1046.1047.1051.1067.1097.1126.1166.1301.1329.1342.1415.1516.1616.1725.1782.1917.1942.1958.1964.1985.1987.2068.2072.2074.2107.2213.2219.2223.2224.2328.2331.2416.2501.2567.2568.2575.2657.2778.2869.2878.2898.2908.2920.2963.3005.3023.3031.3126.3188.3218.3235.3253.3272.3309.3731.6931.8931.13731.15731.33931.39531.48131~dv.&us_privacy=1---&gpp_sid=-1&url=https%3A%2F%2Fplaygama.com%2Fgame%2Fbarry-prison-parkour-escape">Barry Escape Prison</a>
+
+</body>
+</html>
